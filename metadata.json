@@ -1,0 +1,5 @@
+{
+  "name": "Enterprise Face Attendance",
+  "description": "Business-level face recognition attendance system.",
+  "requestFramePermissions": ["camera"]
+}
